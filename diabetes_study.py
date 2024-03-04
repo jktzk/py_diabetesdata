@@ -25,7 +25,6 @@
 #what variables may have coorelation to diabetes and may contribute to
 #the existance of a linear model
 
-#most is not hardcoded but some was
 
 
 

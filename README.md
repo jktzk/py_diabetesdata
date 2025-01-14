@@ -32,9 +32,9 @@ relationships, with a focus on understanding the correlation between BMI and dia
  ```
 3. **Run the Code**: Execute the script using:
  ```bash
- python script_name.py
+ python diabetes_study.py
  ```
- Replace `script_name.py` with the name of your script file.
+
 ## Usage
 The script preprocesses the data, performs regression analysis, and visualizes the relationship
 between BMI and diabetes. Results include a regression plot and summary statistics such as
